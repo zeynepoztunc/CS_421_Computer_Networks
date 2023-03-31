@@ -5,5 +5,5 @@ This repository contains the homeworks that I did for Bilkent CS421 Computer Net
 - `Programming Assignment 1` : Proxy Downloader
    - `Description`:  In this programming assignment, we were asked to develop a program in either Java or Python which downloads files using HTTP commands and implements a proxy server. In the first part of the assignment I have used Netcat working tool to analyze the HTTP request messages that a proxy server receives. In the second part, I have developed a program in Java which prints the HTTP "GET" messages that the browser(Firefox) is sending using a proxy server. The program retrieves the content of the requested file and it downloads it as long as user visits websites.     
    ***How to run:***   
-   1.  Compile: “javac ProxyDownloader.java”
-   2.  Run: “java ProxyDownloader <port>” command.
+      1.  Compile: “javac ProxyDownloader.java”
+      2.  Run: “java ProxyDownloader <port>” command.
